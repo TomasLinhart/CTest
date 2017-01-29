@@ -1,0 +1,5 @@
+module CTest [system] {
+  header "Sources/include/test.h"
+
+  export *
+}
